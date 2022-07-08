@@ -57,7 +57,7 @@ Article document sample:
 ````
 - Find all students who have the worst score for homework, sort by descent
 - Find all students who have the best score for quiz and the worst for homework, sort by ascending
-- Find all students who have best scope for quiz and exam
+- Find all students who have best score for quiz and exam
 - Calculate the average score for homework for all students
 - Delete all students that have homework score <= 60
 - Mark students that have quiz score => 80
